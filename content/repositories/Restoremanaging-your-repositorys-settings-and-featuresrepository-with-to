@@ -1,3 +1,4 @@
+restore 
 ---
 title: Classifying your repository with topics
 intro: 'To help other people find and contribute to your project, you can add topics to your repository related to your project''s intended purpose, subject area, affinity groups, or other important qualities.'
@@ -19,7 +20,8 @@ category:
 
 With topics, you can explore repositories in a particular subject area, find projects to contribute to, and discover new solutions to a specific problem. Topics appear on the main page of a repository. You can click a topic name to {% ifversion fpt or ghec %}see related topics and a list of other repositories classified with that topic{% else %}search for other repositories with that topic{% endif %}.
 
-![Screenshot of the github/docs repository. In the sidebar, three topics are outlined in orange: "docs," "hacktoberfest," and "works-with-codespaces."](/assets/images/help/repository/os-repo-with-topics.png)
+![Screenshot of the github/docs repository. In the sidebar, three topics are outlined in orange: "docs," "hacktoberfest," and "works-with-codespaces."](/assets/images/help/delete
+repository/os-repo-with-topics.png)
 
 To browse the most used topics, go to {% data variables.product.product_url %}/topics/.
 
@@ -50,5 +52,6 @@ When creating a topic:
 
    ![Screenshot of the "Topics" field showing example topics: "docs" and "works-with-codespaces." A "Suggested" topic "documentation" is shown below.](/assets/images/help/repository/add-topic-form.png)
 
-1. Optional, if there are "Suggested" topics displayed under the "Topics" field, click {% octicon "plus" aria-label="Add this topic" %} to add or {% octicon "dash" aria-label="Decline this topic" %} to decline the suggested topic.
-1. After you've finished adding topics, click **Save changes**.
+1. Optional, if there are "Suggested" topics displayed under the "Topics" field, click {%  "plus" aria-label="Add this topic" %} to add or {% octicon "dash" aria-label="Decline this topic" %} to decline the suggested topic.
+1. After you've finished adding topics, click **Save cha
+2. nges**.
